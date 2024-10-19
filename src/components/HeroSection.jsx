@@ -3,7 +3,7 @@ import video2 from '../assets/video2.mp4';
 
 const HeroSection = () => {
   return (
-    <div className="container mx-auto px-4 py-20 text-center">
+    <div  className="container mx-auto px-4 py-20 text-center">
       <h1 className="text-4xl md:text-6xl mb-6">
         VReality build tools <span className="bg-gradient-to-r from-orange-500 to-orange-700 text-transparent bg-clip-text">for</span>
         <br />
